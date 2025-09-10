@@ -35,7 +35,7 @@ Bouton pour sauvegarder dans SQLite
 
 Clone le dépôt et installe les dépendances :
 
-git clone https://github.com/ton-utilisateur/FileValidatorImporter.git
+git clone https://github.com/Krissmy/FileValidatorImporter.git
 cd FileValidatorImporter
 pip install pandas openpyxl
 
@@ -72,5 +72,6 @@ print(df.head())
 
 
 👨‍💻 Auteur
+
 
 Projet réalisé par K.A.TARNAGDA.
